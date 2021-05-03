@@ -1,15 +1,17 @@
 # Hi ! 👋
 
+<div>
 Oii meu nome é Juliana e comecei a estudar esse ano (2021) sobre Desenvolvimento de Sistemas. No começo foi só por curiosidade, apesar de desde pequena gostar de tecnologia, mas agora pretendo seguir carreira na área.
 
 Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a solucionar problemas. <3
-
+</div>
+<div>
 - 📍 São Paulo, Brazil
 - 📚1° Ano do Ensino Médio
 - 🏡 Músicas, Jogos, Programar
+</div>
 
-<br>
-##
+  
   <div>
   <a href = "mailto: juuhf.de@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
