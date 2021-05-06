@@ -12,7 +12,10 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
 <br>
   
   <div>
-  <a href = "mailto: juuhf.de@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ # Contate 
+  <a href="mailto:juuhf.de@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    </a>
   <a href="https://www.linkedin.com/in/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
