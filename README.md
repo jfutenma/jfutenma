@@ -29,6 +29,7 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfutenma&layout=compact"
     />
+    <br>
   </a>
   <a href="https://github.com/jfutenma/github-readme-stats">
     <img
