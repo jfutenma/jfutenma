@@ -9,7 +9,7 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
 - 📚1° Ano do Ensino Médio
 - 🏡 Músicas, Jogos, Programar
 
-<br>
+
 
 # Status GitHub
 <p align="center">
@@ -29,7 +29,7 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
   </a>
 </p>
 
-<br> 
+
 
 # Contate 📱
   <div>
