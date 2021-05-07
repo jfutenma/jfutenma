@@ -21,3 +21,6 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
   <a href="https://instagram.com/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <p> 
 </div>
+
+# Status GitHub
+[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfutenma)](https://github.com/jfutenma/github-readme-stats)
