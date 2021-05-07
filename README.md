@@ -10,17 +10,6 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
 - 🏡 Músicas, Jogos, Programar
 
 <br>
-  
- # Contate 📱
-  <div>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:juuhf.de@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:juuhf.de@gmail.com"></a>  
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <p> 
-</div>
 
 # Status GitHub
 <p align="center">
@@ -39,3 +28,16 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
     />
   </a>
 </p>
+
+<br>
+
+# Contate 📱
+  <div>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:juuhf.de@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:juuhf.de@gmail.com"></a>  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/jfutenma" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <p> 
+</div>
