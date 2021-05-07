@@ -23,4 +23,18 @@ Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e a
 </div>
 
 # Status GitHub
-[![Juliana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfutenma)](https://github.com/jfutenma/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/jfutenma/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfutenma&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/jfutenma/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=jfutenma&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
