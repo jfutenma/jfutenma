@@ -1,7 +1,7 @@
-# Hi ! 👋
+# Prazer ! 👋
 
 
-Oii meu nome é Juliana e comecei a estudar em 2021 sobre Desenvolvimento de Sistemas. No começo foi só por curiosidade, apesar de desde pequena gostar de tecnologia, agora pretendo seguir carreira na área.
+Oie meu nome é Juliana e em 2021 comecei a estudar sobre Desenvolvimento de Sistemas. Desde pequena eu gostava de tecnologia e hoje em dia pretendo seguir na área.
 
 Amo aprender e conhecer coisas novas, estando sempre aberta a novos desafios e problemas. <3
 
